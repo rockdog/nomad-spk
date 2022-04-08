@@ -2,7 +2,7 @@
 
 This package is heavily based from the work done for [gogs-spk](https://github.com/alexandregz/gogs-spk)
 
-[nomad](https://nomad.io) (Service mesh) SPK package ([Synology PacKages](https://www.synology.com/en-us/dsm/app_packages))
+[nomad](https://www.nomadproject.io/) (Service mesh) SPK package ([Synology PacKages](https://www.synology.com/en-us/dsm/app_packages))
 
 Install nomad into a Synology NAS.
 
